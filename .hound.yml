@@ -11,8 +11,7 @@ javascript:
 
 eslint:
   enabled: true
-  config_file: .javascript-style.json
-  ignore_file: .javascript_ignore
+  config_file: .eslintrc
 
 scss:
   enabled: false
